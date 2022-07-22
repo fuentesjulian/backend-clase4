@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "thumbnail": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "id": 1
+  },
+  {
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "thumbnail": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "id": 2
+  }
+]
